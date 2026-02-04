@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-cream-bg: #FDF8F0;
+  --color-cream-light: #FFFBF5;
+  --color-cream-alt: #F5F0E8;
+  --color-text: #2C2C2C;
+  --color-text-sub: #6B6B6B;
+  --color-cta-bg: #1a1a1a;
+}
+
+body {
+  color: var(--color-text);
+  background-color: var(--color-cream-bg);
+}

@@ -182,7 +182,7 @@ export const cta = {
   primary: "AIに電話してみる",
   primaryHref: "tel:",
   secondary: "オンラインデモを予約する",
-  secondaryHref: "#cta",
+  secondaryHref: "/demo/request",
 } as const;
 
 export const footer = {

@@ -26,9 +26,10 @@ yarn-error.log*
 .DS_Store
 *.pem
 
-# IDE
+# IDE / Editor
 .idea/
 .vscode/
+.cursor/
 *.swp
 *.swo
 
